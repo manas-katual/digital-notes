@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-11-inode-no-and-sym-links-and-hard-links/021-11-1-inode-number/"}
 ---
 
-Link : [[Linux Notes/021 RHCSA/021 RHCSA Index\|021 RHCSA Index]]
+Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 
 # Inode Number
 
