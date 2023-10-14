@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-14-storage/021-14-2-das-device-access/"}
 ---
 
-Links : [[Linux Notes/021 RHCSA/021 RHCSA Index\|021 RHCSA Index]]
+Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 
 # DAS device access
 
