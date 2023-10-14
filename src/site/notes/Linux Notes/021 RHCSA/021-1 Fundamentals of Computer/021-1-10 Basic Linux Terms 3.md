@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-10-basic-linux-terms-3/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-10-basic-linux-terms-3/","noteIcon":"","created":"2023-10-07T13:47:51.319+05:30","updated":"2023-10-14T17:26:36.165+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
