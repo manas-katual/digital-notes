@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-14-storage/021-14-4-hard-drives/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-14-storage/021-14-4-hard-drives/","noteIcon":"","created":"2023-10-08T14:04:08.903+05:30","updated":"2023-10-13T17:11:09.326+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
