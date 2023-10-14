@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-2-f-ile-management/021-2-7-vim-editor/"}
 ---
 
-Links : [[Linux Notes/021 RHCSA/021 RHCSA Index\|021 RHCSA Index]]
+Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 
 # VIM
 
