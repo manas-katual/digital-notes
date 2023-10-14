@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-2-f-ile-management/021-2-8-data-backup-and-archiving-using-tar/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-2-f-ile-management/021-2-8-data-backup-and-archiving-using-tar/","noteIcon":"","created":"2023-10-07T13:47:51.413+05:30","updated":"2023-10-13T17:06:53.670+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
