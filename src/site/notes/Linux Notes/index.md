@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/linux-notes/index/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-12T10:25:06.383+05:30","updated":"2023-10-14T14:47:46.996+05:30"}
 ---
 
 # Linux Vault
