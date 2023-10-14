@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-14-storage/021-14-7-swap-management/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-14-storage/021-14-7-swap-management/","noteIcon":"","created":"2023-10-11T14:36:30.324+05:30","updated":"2023-10-14T23:16:50.448+05:30"}
 ---
 
-Links : [[Linux Notes/000 Home\|Linux Notes/000 Home]]
+Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 
 # Swap management
 
