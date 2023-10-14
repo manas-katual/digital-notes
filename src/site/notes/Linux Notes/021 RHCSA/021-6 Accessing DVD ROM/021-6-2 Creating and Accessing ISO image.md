@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-6-accessing-dvd-rom/021-6-2-creating-and-accessing-iso-image/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-6-accessing-dvd-rom/021-6-2-creating-and-accessing-iso-image/","noteIcon":"","created":"2023-10-07T13:47:51.574+05:30","updated":"2023-10-13T17:09:01.105+05:30"}
 ---
 
 Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
