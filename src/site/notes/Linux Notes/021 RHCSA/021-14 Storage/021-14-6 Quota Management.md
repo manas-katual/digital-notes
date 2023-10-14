@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-14-storage/021-14-6-quota-management/"}
 ---
 
-Links : [[Linux Notes/000 Home\|000 Home]]
+Links : [[Linux Notes/000 Home\|Linux Notes/000 Home]]
 
 # Quota Management
 
