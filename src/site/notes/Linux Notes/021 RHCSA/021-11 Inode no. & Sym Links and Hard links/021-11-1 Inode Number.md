@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-11-inode-no-and-sym-links-and-hard-links/021-11-1-inode-number/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-11-inode-no-and-sym-links-and-hard-links/021-11-1-inode-number/","noteIcon":"","created":"2023-10-07T13:47:51.366+05:30","updated":"2023-10-13T17:10:15.014+05:30"}
 ---
 
 Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
