@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-13-networking/021-13-1-basics-of-networking/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-13-networking/021-13-1-basics-of-networking/","noteIcon":"","created":"2023-10-08T16:27:20.036+05:30","updated":"2023-10-13T17:10:30.518+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
