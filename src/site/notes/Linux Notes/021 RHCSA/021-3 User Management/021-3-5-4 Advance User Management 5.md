@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-3-user-management/021-3-5-4-advance-user-management-5/"}
 ---
 
-Links : [[Linux Notes/021 RHCSA/021 RHCSA Index\|021 RHCSA Index]]
+Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 
 # Advance User Management 5
 
