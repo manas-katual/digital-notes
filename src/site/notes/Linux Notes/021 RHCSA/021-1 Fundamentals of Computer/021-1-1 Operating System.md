@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-1-operating-system/"}
 ---
 
-Link : [[Linux Notes/021 RHCSA/021 RHCSA Index\|021 RHCSA Index]]
+Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 # Operating System
 - Operating system is the platform between the hardware and software of a computer.
 - Computer whether physical or virtual always requires a operating system.
