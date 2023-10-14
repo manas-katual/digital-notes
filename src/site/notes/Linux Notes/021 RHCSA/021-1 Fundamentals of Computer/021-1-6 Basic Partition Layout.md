@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-6-basic-partition-layout/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-6-basic-partition-layout/","noteIcon":"","created":"2023-10-07T13:47:51.350+05:30","updated":"2023-10-14T17:28:49.004+05:30"}
 ---
 
 Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
