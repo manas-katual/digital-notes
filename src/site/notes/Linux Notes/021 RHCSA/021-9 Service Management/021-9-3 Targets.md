@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-9-service-management/021-9-3-targets/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-9-service-management/021-9-3-targets/","noteIcon":"","created":"2023-10-07T13:47:51.664+05:30","updated":"2023-10-13T17:10:00.967+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
