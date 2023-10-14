@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-3-user-management/021-3-3-password-aging-policies/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-3-user-management/021-3-3-password-aging-policies/","noteIcon":"","created":"2023-10-07T13:47:51.413+05:30","updated":"2023-10-13T17:07:12.010+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
