@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-13-networking/021-13-3-port-numbers-and-sockets/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-13-networking/021-13-3-port-numbers-and-sockets/","noteIcon":"","created":"2023-10-08T18:04:45.465+05:30","updated":"2023-10-13T17:10:40.444+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
