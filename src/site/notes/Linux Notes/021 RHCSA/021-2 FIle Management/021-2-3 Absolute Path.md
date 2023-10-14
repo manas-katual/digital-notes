@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-2-f-ile-management/021-2-3-absolute-path/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-2-f-ile-management/021-2-3-absolute-path/","noteIcon":"","created":"2023-10-07T13:47:51.382+05:30","updated":"2023-10-14T17:27:06.764+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
