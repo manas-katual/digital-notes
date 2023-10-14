@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-7-software-management/021-7-1-software-management/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-7-software-management/021-7-1-software-management/","noteIcon":"","created":"2023-10-07T13:47:51.585+05:30","updated":"2023-10-13T17:09:07.217+05:30"}
 ---
 
 # Software Management
