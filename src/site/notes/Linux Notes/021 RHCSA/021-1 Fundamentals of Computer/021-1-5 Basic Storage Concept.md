@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-5-basic-storage-concept/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-5-basic-storage-concept/","noteIcon":"","created":"2023-10-07T13:47:51.350+05:30","updated":"2023-10-14T23:13:26.614+05:30"}
 ---
 
 Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
@@ -25,7 +25,7 @@ Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 - Since there is no drive letter support in Linux, Linux directory structure starts from a directory called slash directory **"/"** 
 - **"/"** is the root directory of Linux file system.
 - All other files & directories always fall inside **"/"** directory.
-- Various Linux directories that fall directly under **"/"** directory include [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^3f0f81\|boot]], [[021-2 File Management#^3a09c4\|dev]], [[021-2 File Management#^21fa6c\|var]], [[021-2 File Management#^2a7a7d\|usr]], [[021-2 File Management#^8accbb\|lib]], [[021-2 File Management#^c3f9f7\|etc]], [[021-2 File Management#^5df4b4\|proc]], [[021-2 File Management#^19ef98\|home]], [[021-2 File Management#^3ad100\|root]], and [[021-2 File Management#^3be19b\|tmp]]
+- Various Linux directories that fall directly under **"/"** directory include [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^3f0f81\|boot]], [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^3a09c4\|dev]], [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^21fa6c\|var]], [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^2a7a7d\|usr]], [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^8accbb\|lib]], [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^c3f9f7\|etc]], [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^5df4b4\|proc]], [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^19ef98\|home]], [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^3ad100\|root]], and [[Linux Notes/021 RHCSA/021-2 FIle Management/021-2-1 File System#^3be19b\|tmp]]
 
 ==for better understanding see below diagram==
 
