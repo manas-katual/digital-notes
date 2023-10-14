@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa-index/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa-index/","noteIcon":"","created":"2023-10-07T13:47:51.303+05:30","updated":"2023-10-14T19:22:55.011+05:30"}
 ---
 
 # RHCSA
