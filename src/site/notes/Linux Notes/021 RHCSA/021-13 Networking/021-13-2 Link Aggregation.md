@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-13-networking/021-13-2-link-aggregation/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-13-networking/021-13-2-link-aggregation/","noteIcon":"","created":"2023-10-08T17:54:53.794+05:30","updated":"2023-10-13T17:10:36.015+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
