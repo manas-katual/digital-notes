@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-3-user-management/021-3-5-2-advance-user-management-3/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-3-user-management/021-3-5-2-advance-user-management-3/","noteIcon":"","created":"2023-10-07T13:47:51.444+05:30","updated":"2023-10-13T17:07:30.373+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
