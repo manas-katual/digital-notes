@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-13-networking/021-13-4-remote-services/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-13-networking/021-13-4-remote-services/","noteIcon":"","created":"2023-10-08T18:22:21.065+05:30","updated":"2023-10-13T17:10:44.452+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
