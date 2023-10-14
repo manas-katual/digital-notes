@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-2-f-ile-management/021-2-6-text-editor/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-2-f-ile-management/021-2-6-text-editor/","noteIcon":"","created":"2023-10-07T13:47:51.397+05:30","updated":"2023-10-13T17:06:45.244+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
