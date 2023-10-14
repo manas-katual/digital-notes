@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-12-basic-linux-commands/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-12-basic-linux-commands/","noteIcon":"","created":"2023-10-07T13:47:51.319+05:30","updated":"2023-10-13T17:06:17.936+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
