@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-11-inode-no-and-sym-links-and-hard-links/021-11-2-symlinks-and-hard-links/"}
 ---
 
-Links : [[Linux Notes/021 RHCSA/021 RHCSA Index\|021 RHCSA Index]]
+Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 
 # Symlinks | Symbolic links | Soft links : 
 
