@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-8-process-management/021-8-1-process-management/"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-8-process-management/021-8-1-process-management/","noteIcon":"","created":"2023-10-07T13:47:51.617+05:30","updated":"2023-10-13T17:09:27.936+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
