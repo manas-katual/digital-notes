@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-9-service-management/021-9-2-run-levels/"}
 ---
 
-Links : [[Linux Notes/021 RHCSA/021 RHCSA Index\|021 RHCSA Index]]
+Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 
 # Run Levels 
 
