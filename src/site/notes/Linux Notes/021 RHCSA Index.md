@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa-index/","noteIcon":"","created":"2023-10-07T13:47:51.303+05:30","updated":"2023-10-14T19:22:55.011+05:30"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa-index/","noteIcon":"","created":"2023-10-07T13:47:51.303+05:30","updated":"2023-10-22T17:32:23.621+05:30"}
 ---
+
+Links : [[Linux Notes/index\|Home]]
 
 # RHCSA
 
