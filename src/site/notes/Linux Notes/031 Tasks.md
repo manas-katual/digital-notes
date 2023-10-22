@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/031-tasks/","noteIcon":"","created":"2023-10-07T13:47:51.679+05:30","updated":"2023-10-14T14:47:46.972+05:30"}
+{"dg-publish":true,"permalink":"/linux-notes/031-tasks/","noteIcon":"","created":"2023-10-07T13:47:51.679+05:30","updated":"2023-10-22T17:32:32.365+05:30"}
 ---
 
-Links : [[Linux Notes/000 Home\|Linux Notes/000 Home]]
+Links : [[Linux Notes/index\|Home]]
 
 # Tasks
 
