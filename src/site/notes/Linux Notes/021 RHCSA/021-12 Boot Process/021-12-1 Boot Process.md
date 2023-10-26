@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-12-boot-process/021-12-1-boot-process/","noteIcon":"","created":"2023-10-07T13:47:51.664+05:30","updated":"2023-10-26T14:34:34.761+05:30"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-12-boot-process/021-12-1-boot-process/","noteIcon":"","created":"2023-10-07T13:47:51.664+05:30","updated":"2023-10-26T19:43:31.623+05:30"}
 ---
 
 Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
