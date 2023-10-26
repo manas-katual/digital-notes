@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-4-linux-versions/","noteIcon":"","created":"2023-10-07T13:47:51.335+05:30","updated":"2023-10-23T10:59:33.723+05:30"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-4-linux-versions/","noteIcon":"","created":"2023-10-07T13:47:51.335+05:30","updated":"2023-10-26T12:43:13.258+05:30"}
 ---
 
 Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
