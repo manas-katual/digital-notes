@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa-index/","noteIcon":"","created":"2023-10-07T13:47:51.303+05:30","updated":"2023-10-22T17:32:23.621+05:30"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa-index/","noteIcon":"","created":"2023-10-07T13:47:51.303+05:30","updated":"2023-10-26T20:15:16.220+05:30"}
 ---
 
 Links : [[Linux Notes/index\|Home]]
@@ -9,6 +9,9 @@ Links : [[Linux Notes/index\|Home]]
 This is the Index Page of RHCSA
 
 ---
+
+> [!Warning]
+> These notes are a work in progress, and are therefore currently incomplete.
 
 - 021-1 Fundamentals of Computer
 	- [[Linux Notes/021 RHCSA/021-1 Fundamentals of Computer/021-1-1 Operating System\|021-1-1 Operating System]]
