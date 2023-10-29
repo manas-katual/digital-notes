@@ -8,4 +8,4 @@ Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 
 Kernel development and versions release is handled by **Open Source Community**
 
-![Linux versions.excalidraw 1.png|undefined](/img/user/Linux%20Notes/assets/Linux%20versions.excalidraw%201.png)
+![Linux versions.excalidraw 1.png](/img/user/Linux%20Notes/assets/Linux%20versions.excalidraw%201.png)
