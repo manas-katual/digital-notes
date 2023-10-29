@@ -9,8 +9,8 @@ Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 **Steps to access a DVD Rom in Linux**
 
 1. Connect DVD to a VM
-	![DVD.png|undefined](/img/user/Linux%20Notes/assets/DVD.png)
-	![DVD 2.png|undefined](/img/user/Linux%20Notes/assets/DVD%202.png)
+	![DVD.png](/img/user/Linux%20Notes/assets/DVD.png)
+	![DVD 2.png](/img/user/Linux%20Notes/assets/DVD%202.png)
 1. Detect DVD Rom in Linux
 	<abbr title="dmesg shows all hardware information">`# dmesg | grep sr0`</abbr>
 3. Mount DVD ROM on Mount point
