@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-1-operating-system/","noteIcon":"","created":"2023-10-07T13:47:51.319+05:30","updated":"2023-10-29T12:49:41.053+05:30"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-1-operating-system/","noteIcon":"","created":"2023-10-07T13:47:51.319+05:30","updated":"2023-10-29T12:52:16.753+05:30"}
 ---
 
 Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
