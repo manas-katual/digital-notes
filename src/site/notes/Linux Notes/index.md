@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/index/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-12T10:25:06.383+05:30","updated":"2023-10-22T17:43:41.268+05:30"}
+{"dg-publish":true,"permalink":"/linux-notes/index/","tags":["gardenEntry"],"noteIcon":"","created":"2023-10-12T10:25:06.383+05:30","updated":"2023-10-26T21:02:49.007+05:30"}
 ---
 
-![thoreaus_hut.png|undefined](/img/user/Linux%20Notes/assets/thoreaus_hut.png)
+![thoreaus_hut.png](/img/user/Linux%20Notes/assets/thoreaus_hut.png)
 
 
 
@@ -10,9 +10,9 @@
 
 Welcome traveler! You’ve stumbled into my humble garden of thought
 
-I am currently exploring about Linux. Particularly I am making this notes for Red Hat (RHCSA Exam)
+I am currently exploring about Linux. Particularly I am making this notes for Red Hat (RHCSA Exam). But this notes apply for all Linux distros out there with some minor changes 
 
-It is not well structured and completed yet. I am working on it. Feel free to point out my mistakes. 
+It is not well structured and completed yet. I am working on it. Feel free to correct me if anything is missing. 
 
 
 ## Key Landing Pages
