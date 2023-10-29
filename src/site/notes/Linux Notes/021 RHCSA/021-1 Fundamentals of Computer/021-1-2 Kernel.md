@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-2-kernel/","noteIcon":"","created":"2023-10-07T13:47:51.335+05:30","updated":"2023-10-13T17:05:25.406+05:30"}
+{"dg-publish":true,"permalink":"/linux-notes/021-rhcsa/021-1-fundamentals-of-computer/021-1-2-kernel/","noteIcon":"","created":"2023-10-07T13:47:51.335+05:30","updated":"2023-10-26T21:16:17.170+05:30"}
 ---
 
 Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
+
 # Kernel
+
 - Kernel is the engine of the operating system
 - Features of an OS like
 	>&rarr; Stability
@@ -14,7 +16,7 @@ Link : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 	&rarr; Hardware Support
 	&rarr; Software Support
 	&rarr; Architecture
-	depends on the kernel
+- This all depends on kernel	
 - If kernel crashes, the entire OS will crash.
 
 
