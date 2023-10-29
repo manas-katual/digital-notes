@@ -45,7 +45,7 @@ Links : [[Linux Notes/021 RHCSA Index\|021 RHCSA Index]]
 - They are 2 main boot files
 - Boot loader is stored in system partition
 - Boot loader starts kernel; kernel starts operating system
-- ![Boot Process 2023-09-20 16.26.55.excalidraw.png|undefined](/img/user/Linux%20Notes/assets/Boot%20Process%202023-09-20%2016.26.55.excalidraw.png)
+- ![Boot Process 2023-09-20 16.26.55.excalidraw.png](/img/user/Linux%20Notes/assets/Boot%20Process%202023-09-20%2016.26.55.excalidraw.png)
 ---
 
 ## Flow of Boot Process
